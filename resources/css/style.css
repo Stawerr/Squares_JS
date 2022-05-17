@@ -1,0 +1,57 @@
+.bg-black{
+    background: rgb(20, 20, 20);
+}
+.bg-purple{
+    background: rgb(153, 0, 255);
+}
+.bg-red{
+    background: rgb(228, 1, 1);
+}
+.bg-green{
+    background: rgb(20, 228, 1);
+}
+.bg-blue{
+    background: rgb(5, 1, 228);
+}
+.text-red{
+    color: rgb(228, 1, 1);
+}
+.text-green{
+    color: rgb(20, 228, 1);
+}
+.text-blue{
+    color: rgb(5, 1, 228);
+}
+.text-white{
+    color:#fff
+}
+.text-purple{
+    color: rgb(153, 0, 255);
+}
+
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.align-center{
+    justify-content: center;
+    align-items: center;
+}
+.gap-30{
+    gap:30px
+}
+.p-5{
+    padding:5px;
+}
+.p-30{
+    padding:30px;
+}
+.space-ar{
+    justify-content: space-around;
+}
+
+.w-100{
+    width: 100%;
+}
